@@ -1,2 +1,3 @@
 # Customer-Review-Analysis
-This project examines customer feedback for Dolce Vita Italian Restaurant to derive actionable insights aimed at improving the overall dining experience. 
+
+This project examines customer feedback for Dolce Vita Italian Restaurant to derive actionable insights aimed at improving the overall dining experience. By web-scraping the unstructured data from TripAdvisor website and by utilizing Aspect-Based Sentiment Analysis (ABSA) and Natural Language Processing (BERT, VADER), ML (PCA, Random Forest) customer reviews are segmented into key categories, including food quality, service, ambiance, and value for money. The study analyzes sentiment trends, identifies primary drivers of dissatisfaction, and explores the influence of demographic factors using TripAdvisor reviews. 
